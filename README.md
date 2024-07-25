@@ -1,18 +1,21 @@
-# 🎆 About Me 🎆
+<h1 align="center">🎆 About Me 🎆</h1>
 
- 🦿👩‍🎓🦾 Biomedical Engineer
+<h3 align="center">🦿👩‍🎓🦾 Biomedical Engineer</h3>
 
-🥼💻📊 Data Scientist
+<h3 align="center">🥼💻📊 Data Scientist</h3>
 
-🏎🛸⛱ An enthusiast of motorsports, science fiction, and beach outings.
+<h4 align="center">🏎🛸⛱ An enthusiast of motorsports, science fiction, and beach outings.</h4>
 
-📍Jujuy / Córdoba, Argentina
+<h4 align="center">📍Jujuy / Córdoba, Argentina</h4>
 
 
-## 🌐 Socials:
+<h1 align="center"> 🌐 Socials:</h1>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ines-sadir/) 
 
-# 💻 Tech Stack:
+<h1 align="center">💻 Tech Stack:</h1>
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
@@ -20,17 +23,23 @@
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ISadir&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+
+<h1 align="center"> 📊 GitHub Stats:</h1>
+
+![](https://github-readme-stats.vercel.app/api?username=ISadir&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ISadir&theme=radical&hide_border=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ISadir&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+
+
+
 #
 <p align="center">
   
 ![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=We%20demand%20rigidly%20defined%20areas%20of%20doubt%20and%20uncertainty%21%&author=Douglas%20Adams%2C%20The%20Hitchhiker%27s%20Guide%20to%20the%20Galaxy&type=horizontal&theme=radical&border=true)
+
 </p>
 
 
