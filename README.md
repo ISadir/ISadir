@@ -4,7 +4,7 @@
 
 🥼💻📊 Data Scientist
 
-🏎🛸⛱ A fan of motorsports, science fiction, and going to the beach.
+🏎🛸⛱ An enthusiast of motorsports, science fiction, and beach outings.
 
 📍Jujuy / Córdoba, Argentina
 
