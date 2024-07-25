@@ -10,13 +10,13 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ISadir&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ISadir&theme=ambient_gradient&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ISadir&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=%22We%20demand%20rigidly%20defined%20areas%20of%20doubt%20and%20uncertainty%21%22%20%E2%80%94%20Douglas%20Adams%2C%20The%20Hitchhiker%27s%20Guide%20to%20the%20Galaxy&type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ISadir&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
