@@ -8,12 +8,12 @@
 
 <h4 align="center">📍Jujuy / Córdoba, Argentina</h4>
 
+<p align="center">
+ <a href="https://www.linkedin.com/in/ines-sadir/" target="_blank" rel="noreferrer"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
+ </a>
+</p>
 
-<h1 align="center"> 🌐 Socials:</h1>
-<h1 align="center"> 
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ines-sadir/) 
-</h1>
 
 <h1 align="center">💻 Tech Stack:</h1>
 
